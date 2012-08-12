@@ -1,4 +1,8 @@
 *.py[co]
+*.pyc
+
+# workspace file is great, except for when it crashes sublime...
+*.sublime-workspace
 
 # Packages
 *.egg
@@ -25,3 +29,5 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+sweet_code.html
